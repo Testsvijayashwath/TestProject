@@ -1,0 +1,25 @@
+       .headerWidthDesktop12
+     {
+         float:left;
+         width:28%
+     }
+
+       
+       .headerWidthDesktop13
+     {
+         float:left;
+         width:6%
+     }
+
+
+       <div class="headerWidthDesktop13">
+                <md-input-container style="margin-top:6px !important;">
+                </md-input-container>
+            </div>
+
+style="margin-top:25px !important;"
+
+style="margin-top:13px !important;"
+
+Architect/Struct Engg/Supervisor/Engg.
+
